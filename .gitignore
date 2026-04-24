@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+model.pkl
+encoder.pkl
+.DS_Store
+*.log
